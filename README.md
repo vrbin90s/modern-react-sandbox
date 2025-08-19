@@ -21,4 +21,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/vrbin90s/moder-react-sandbox.git
 cd moder-react-sandbox
 npm install
-npm start
+npm run dev
